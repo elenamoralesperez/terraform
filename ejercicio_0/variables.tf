@@ -3,7 +3,7 @@ variable "filename" {
 }
 
 variable "content"{
-    default = "We love pets!"
+    default = "Me gusta la tortilla"
 }
 
 variable "prefix" {
@@ -15,5 +15,5 @@ variable "separator" {
 }
 
 variable "length" {
-    default = "1"
+    default = "7"
 }
